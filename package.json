@@ -1,0 +1,23 @@
+{
+  "name": "bckend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start" : "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arshad-softEngineer/node-bckend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arshad-softEngineer/node-bckend/issues"
+  },
+  "homepage": "https://github.com/Arshad-softEngineer/node-bckend#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
